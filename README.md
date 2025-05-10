@@ -67,5 +67,5 @@ python run.py
 
 | Example 1                      | Example 2                           | Example 3                           |
 |------------------------------|--------------------------------------|--------------------------------------|
-| ![Mesure1](expl2.png)    | ![Mesure2](expl1.png)   | ![Classif2](En FR.png)  |
+| ![expl](expl2.png)    | ![expl](expl1.png)   | ![expl](ENFR.png)  |
 
