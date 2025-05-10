@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb
+pypdf
+bitsandbytes
+accelerate
+transformers
+torch
+sentence-transformers
+gradio
